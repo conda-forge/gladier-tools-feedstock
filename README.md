@@ -143,6 +143,6 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@AdvancedPhotonSource/ptychodus](https://github.com/AdvancedPhotonSource/ptychodus/)
+* [@AdvancedPhotonSource/ptychodus](https://github.com/orgs/AdvancedPhotonSource/teams/ptychodus/)
 * [@carterbox](https://github.com/carterbox/)
 
